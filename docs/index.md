@@ -22,4 +22,4 @@ Please note that the intelligent asset management reference architecture is desi
 
 
 
-* Last modified on: 2023-08-29 *
+Last modified on: 2023-08-29
