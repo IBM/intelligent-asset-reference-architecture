@@ -16,10 +16,12 @@ For questions or more information, contact us at [Contact Email].
 For more information on IBM IT Architect Assistant, contact us at cogarch@us.ibm.com.  
 
 
-## Disclaimer
+---
 
-Please note that the intelligent asset management reference architecture is designed to showcase how arranging different systems together can create value and improve the smart management of assets. Users should consider creating architecture(s) that supports their business requirements and operational goals.  
+### Disclaimer
+
+Please note that the intelligent asset management reference architecture is designed to showcase arranging various systems together to create value and improve the smarter management of assets. Users should consider modifying a copy of this architecture to support their business and operational goals.  
 
 
 
-Last modified on: 2023-08-29
+###### Last modified on: 2023-08-29
