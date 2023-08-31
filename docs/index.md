@@ -19,17 +19,17 @@ Please note that the intelligent asset management reference architecture is desi
 
 ---
 
-#### Customizing the architecture with the IBM IT Architect Assistant application
+##### Customizing the architecture with the *IBM IT Architect Assistant* application
 
 You can try out *IBM IT Architect Assistant* to make a copy of the architecture and modify it to support your specific goals.  
 
-<div style="text-align: left">If you have previously accessed IBM IT Architect Assistant, go to 
-    <a href="https://it.architect-assistant.ibm.com/architectures/Social/arch_SJbcs2S63">IBM IT Architect Assistant</a> to view the architecture and make a copy for your modifications.
-</div>
-
 If you are new to *IBM IT Architect Assistant* and would like to try it out, send an email to cogarch@us.ibm.com with the subject line of "Request IIAA access".  
 
-For more information or if you have any questions, you can also reach us at the same email.  
+<div style="text-align: left">This architecture can be viewed at 
+    <a href="https://it.architect-assistant.ibm.com/architectures/Social/arch_SJbcs2S63">IBM IT Architect Assistant</a>.
+</div>
+
+For more information or if you have any questions, you can also reach us at cogarch@us.ibm.com.  
 
 
 ---
