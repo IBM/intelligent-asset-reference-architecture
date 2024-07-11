@@ -1,5 +1,5 @@
 
-#  MAS Predict - Maximo Application Suite: Predict Functional Requirement
+#  MAS Predict - Maximo Application Suite: Predict Functional Requirement-uploaded
 
 
 
@@ -32,7 +32,7 @@ High
 
 | Name | Description |
 | --- | --- |
- | Predict | Go beyond time-scheduled maintenance to condition-based action to predict the likelihood of future failures by applying machine learning and data analytics to reduce cost and asset failures. Build on the power of other Maximo capabilities and Watson Studio to make data-driven decisions and build predictive models. |
+ | Predict-uploaded | Go beyond time-scheduled maintenance to condition-based action to predict the likelihood of future failures by applying machine learning and data analytics to reduce cost and asset failures. Build on the power of other Maximo capabilities and Watson Studio to make data-driven decisions and build predictive models. |
     
 
 
