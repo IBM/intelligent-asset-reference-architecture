@@ -35,24 +35,24 @@ tags:
 
 | Name | Description | Type | GenericGroup |
 | --- | --- | --- | --- |
-| ADVANTECH-uploaded | <p>Advantech IoT Edge Gateways help bridge data from edge devices to the cloud, acting as protocol converters, data collectors, or data loggers.</p> | IT System |  |
-| Aviation Asset-uploaded | <p>Assets from the Aviation Facilities</p> | IT System |  |
-| Building Asset-uploaded | <p>Assets from the Commercial and Industrial Buildings</p> | IT System |  |
-| CISCO-uploaded | <p>CISCO edge device collects and processes data from sensors and other IoT devices at the network's edge before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
-| Civil & Infrastructure Asset-uploaded | <p>Assets from the Cil and Infrastructure Facilities</p> | IT System |  |
-| Control System-uploaded | <p>A control system uses sensors and actuators to monitor and control the operation of a system or process. Control systems also can be used to automatically adjust the operation of a system based on predetermined set points, as well as to respond to changes in the environment or to commands from operators.</p> | IT System | <div><strong>SubSystem,Maximo Application Suite Core</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Maximo Application Suite Core.</div> |
-| Energy & Utility Asset-uploaded | <p>Assets from the Energy &amp; Utility Facilities</p> | IT System |  |
-| FLUKE-uploaded | <p>Fluke enables its devices to connect to the internet and transmit data to the cloud or on-premise systems for analysis and processing.</p> | IT System |  |
-| HARTING-uploaded | <p>HARTING edge devices collect and process data from sensors and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
-| HILSCHER-uploaded | <p>HILSCHER gateways help aggregate, process, or transmit IoT information of your production process completely autonomously to a central system for analysis and processing.</p> | IT System |  |
-| Life Science Asset-uploaded | <p>Assets from the Life Science Facilities</p> | IT System |  |
-| Manufacturing Asset-uploaded | <p>Assets from the Manufacturing Facilities</p> | IT System |  |
-| Oil & Gas Asset-uploaded | <p>Assets from the Oil and Gas Facilities</p> | IT System |  |
-| Omnio-uploaded | <p>Omnio Edge is a middleware application that runs on gateways connected to your gateways.</p> | IT System |  |
-| OSISOFT-uploaded | <p>OSIsoft provides lightweight data collection, storage, and access to edge devices and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
-| Sensors-uploaded | <p>IoT sensors are pieces of hardware that detect changes in an environment and collect data.  The type of IoT sensors include:  temperature sensors, proximity sensors, pressure sensors, water quality sensors, chemical and gas sensors, infrared sensors, smoke sensors, motion sensors, and optical sensors to name a few.</p> | IT System | <div><strong>SubSystem,Maximo Application Suite Core</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Maximo Application Suite Core.</div> |
-| TELIT-uploaded | <p>TELIT edge devices collect and process data from sensors and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
-| Transportation Asset-uploaded | <p>Assets from the Transportation Facilities</p> | IT System |  |
+| ADVANTECH | <p>Advantech IoT Edge Gateways help bridge data from edge devices to the cloud, acting as protocol converters, data collectors, or data loggers.</p> | IT System |  |
+| Aviation Asset | <p>Assets from the Aviation Facilities</p> | IT System |  |
+| Building Asset | <p>Assets from the Commercial and Industrial Buildings</p> | IT System |  |
+| CISCO | <p>CISCO edge device collects and processes data from sensors and other IoT devices at the network's edge before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
+| Civil & Infrastructure Asset | <p>Assets from the Cil and Infrastructure Facilities</p> | IT System |  |
+| Control System | <p>A control system uses sensors and actuators to monitor and control the operation of a system or process. Control systems also can be used to automatically adjust the operation of a system based on predetermined set points, as well as to respond to changes in the environment or to commands from operators.</p> | IT System | <div><strong>SubSystem,Maximo Application Suite Core</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Maximo Application Suite Core.</div> |
+| Energy & Utility Asset | <p>Assets from the Energy &amp; Utility Facilities</p> | IT System |  |
+| FLUKE | <p>Fluke enables its devices to connect to the internet and transmit data to the cloud or on-premise systems for analysis and processing.</p> | IT System |  |
+| HARTING | <p>HARTING edge devices collect and process data from sensors and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
+| HILSCHER | <p>HILSCHER gateways help aggregate, process, or transmit IoT information of your production process completely autonomously to a central system for analysis and processing.</p> | IT System |  |
+| Life Science Asset | <p>Assets from the Life Science Facilities</p> | IT System |  |
+| Manufacturing Asset | <p>Assets from the Manufacturing Facilities</p> | IT System |  |
+| Oil & Gas Asset | <p>Assets from the Oil and Gas Facilities</p> | IT System |  |
+| Omnio | <p>Omnio Edge is a middleware application that runs on gateways connected to your gateways.</p> | IT System |  |
+| OSISOFT | <p>OSIsoft provides lightweight data collection, storage, and access to edge devices and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
+| Sensors | <p>IoT sensors are pieces of hardware that detect changes in an environment and collect data.  The type of IoT sensors include:  temperature sensors, proximity sensors, pressure sensors, water quality sensors, chemical and gas sensors, infrared sensors, smoke sensors, motion sensors, and optical sensors to name a few.</p> | IT System | <div><strong>SubSystem,Maximo Application Suite Core</strong>[Auto-Generated]</div><div>This group is derived from SubSystem named Maximo Application Suite Core.</div> |
+| TELIT | <p>TELIT edge devices collect and process data from sensors and other IoT devices at the edge of a network before transmitting that data to a central system for analysis and processing.</p> | IT System |  |
+| Transportation Asset | <p>Assets from the Transportation Facilities</p> | IT System |  |
 
 
 
@@ -123,13 +123,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Analytics Engine-uploaded</summary>
+<summary markdown="span">Analytics Engine</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Analytics Engine-uploaded</td>
+        <td>Analytics Engine</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -140,13 +140,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Analytics Studio-uploaded</summary>
+<summary markdown="span">Analytics Studio</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Analytics Studio-uploaded</td>
+        <td>Analytics Studio</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -161,13 +161,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Application Connection Services-uploaded</summary>
+<summary markdown="span">Application Connection Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Application Connection Services-uploaded</td>
+        <td>Application Connection Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -186,13 +186,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Assist-uploaded</summary>
+<summary markdown="span">Assist</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Assist-uploaded</td>
+        <td>Assist</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -207,13 +207,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Data Dictionary-uploaded</summary>
+<summary markdown="span">Data Dictionary</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Data Dictionary-uploaded</td>
+        <td>Data Dictionary</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -228,13 +228,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Data Lake Services-uploaded</summary>
+<summary markdown="span">Data Lake Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Data Lake Services-uploaded</td>
+        <td>Data Lake Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -249,13 +249,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Data Synchronization-uploaded</summary>
+<summary markdown="span">Data Synchronization</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Data Synchronization-uploaded</td>
+        <td>Data Synchronization</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -270,13 +270,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Device Connection Services-uploaded</summary>
+<summary markdown="span">Device Connection Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Device Connection Services-uploaded</td>
+        <td>Device Connection Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -312,13 +312,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Health-uploaded</summary>
+<summary markdown="span">Health</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Health-uploaded</td>
+        <td>Health</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -337,13 +337,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Industries-uploaded</summary>
+<summary markdown="span">Industries</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Industries-uploaded</td>
+        <td>Industries</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -358,13 +358,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Information Management Services-uploaded</summary>
+<summary markdown="span">Information Management Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Information Management Services-uploaded</td>
+        <td>Information Management Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -379,13 +379,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">IoT Platform & Data Pipelines-uploaded</summary>
+<summary markdown="span">IoT Platform & Data Pipelines</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>IoT Platform & Data Pipelines-uploaded</td>
+        <td>IoT Platform & Data Pipelines</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -400,13 +400,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Manage-uploaded</summary>
+<summary markdown="span">Manage</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Manage-uploaded</td>
+        <td>Manage</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -425,13 +425,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Message Services-uploaded</summary>
+<summary markdown="span">Message Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Message Services-uploaded</td>
+        <td>Message Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -446,13 +446,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Mobile-uploaded</summary>
+<summary markdown="span">Mobile</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Mobile-uploaded</td>
+        <td>Mobile</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -467,13 +467,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Monitor-uploaded</summary>
+<summary markdown="span">Monitor</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Monitor-uploaded</td>
+        <td>Monitor</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -492,13 +492,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Predict-uploaded</summary>
+<summary markdown="span">Predict</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Predict-uploaded</td>
+        <td>Predict</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -517,13 +517,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Rules & Alerts-uploaded</summary>
+<summary markdown="span">Rules & Alerts</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Rules & Alerts-uploaded</td>
+        <td>Rules & Alerts</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -559,13 +559,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Secure Integration-uploaded</summary>
+<summary markdown="span">Secure Integration</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Secure Integration-uploaded</td>
+        <td>Secure Integration</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -576,13 +576,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Visual Inspection-uploaded</summary>
+<summary markdown="span">Visual Inspection</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Visual Inspection-uploaded</td>
+        <td>Visual Inspection</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>

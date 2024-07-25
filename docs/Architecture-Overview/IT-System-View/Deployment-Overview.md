@@ -29,9 +29,9 @@ tags:
 
 | Name | Description | Type | GenericGroup |
 | --- | --- | --- | --- |
-| 3rd Party System-uploaded | <p>Third party applications external to Maximo Application Suite Core</p> | IT System |  |
+| 3rd Party System | <p>Third party applications external to Maximo Application Suite Core</p> | IT System |  |
 | Edge Data Collector |  | IT System |  |
-| Weather System-uploaded | <p>The weather system provides weather information, tracks patterns, and predicts trends.</p> | IT System |  |
+| Weather System | <p>The weather system provides weather information, tracks patterns, and predicts trends.</p> | IT System |  |
 
 
 
@@ -94,34 +94,6 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Enterprise Assets -uploaded</summary>
-
-<table>
-    <caption></caption>
-    <tr>
-        <td> <strong>Name</strong> </td>
-        <td>Enterprise Assets -uploaded</td>
-    </tr>
-    <tr>
-        <td> <strong>Description</strong> </td>
-        <td><p>Enterprise Assets are a company's physical capital investments used for production.</p></td>
-    </tr>
-    <tr>
-        <td> <strong>Primary Capability</strong> </td>
-        <td>
-                <div>IoT</div>
-                <div>iot</div></td>
-    </tr>
-    <tr>
-        <td> <strong>Related Diagrams</strong> </td>
-        <td>
-                <div><a href="../../../Architecture-Overview/IT-System-View/Deployment-Overview">Deployment Overview</a></div></td>
-    </tr>
-</table>
-</details>
-    
-
-<details markdown=1>
 <summary markdown="span">AI Configuration</summary>
 
 <table>
@@ -155,13 +127,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">App Connect-uploaded</summary>
+<summary markdown="span">App Connect</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>App Connect-uploaded</td>
+        <td>App Connect</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -188,13 +160,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Assist-uploaded</summary>
+<summary markdown="span">Assist-</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Assist-uploaded</td>
+        <td>Assist-</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -221,13 +193,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">CAD Files-uploaded</summary>
+<summary markdown="span">CAD Files</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>CAD Files-uploaded</td>
+        <td>CAD Files</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -272,13 +244,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">CouchDb-uploaded</summary>
+<summary markdown="span">CouchDb</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>CouchDb-uploaded</td>
+        <td>CouchDb</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -305,13 +277,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Database-uploaded</summary>
+<summary markdown="span">Database</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Database-uploaded</td>
+        <td>Database</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -355,13 +327,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">DB2 Warehouse-uploaded</summary>
+<summary markdown="span">DB2 Warehouse</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>DB2 Warehouse-uploaded</td>
+        <td>DB2 Warehouse</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -390,13 +362,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Discovery-uploaded</summary>
+<summary markdown="span">Discovery</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Discovery-uploaded</td>
+        <td>Discovery</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -425,13 +397,41 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Health-uploaded</summary>
+<summary markdown="span">Enterprise Assets</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Health-uploaded</td>
+        <td>Enterprise Assets</td>
+    </tr>
+    <tr>
+        <td> <strong>Description</strong> </td>
+        <td><p>Enterprise Assets are a company's physical capital investments used for production.</p></td>
+    </tr>
+    <tr>
+        <td> <strong>Primary Capability</strong> </td>
+        <td>
+                <div>IoT</div>
+                <div>iot</div></td>
+    </tr>
+    <tr>
+        <td> <strong>Related Diagrams</strong> </td>
+        <td>
+                <div><a href="../../../Architecture-Overview/IT-System-View/Deployment-Overview">Deployment Overview</a></div></td>
+    </tr>
+</table>
+</details>
+    
+
+<details markdown=1>
+<summary markdown="span">Health</summary>
+
+<table>
+    <caption></caption>
+    <tr>
+        <td> <strong>Name</strong> </td>
+        <td>Health</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -460,13 +460,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Integration & Connection Services-uploaded</summary>
+<summary markdown="span">Integration & Connection Services</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Integration & Connection Services-uploaded</td>
+        <td>Integration & Connection Services</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -487,13 +487,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Kafka-uploaded</summary>
+<summary markdown="span">Kafka</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Kafka-uploaded</td>
+        <td>Kafka</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -520,13 +520,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Location Files-uploaded</summary>
+<summary markdown="span">Location Files</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Location Files-uploaded</td>
+        <td>Location Files</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -547,13 +547,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Manage-uploaded</summary>
+<summary markdown="span">Manage</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Manage-uploaded</td>
+        <td>Manage</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -582,13 +582,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">ML-uploaded</summary>
+<summary markdown="span">ML</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>ML-uploaded</td>
+        <td>ML</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -617,13 +617,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Mobile-uploaded</summary>
+<summary markdown="span">Mobile</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Mobile-uploaded</td>
+        <td>Mobile</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -652,13 +652,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">MongoDB-uploaded</summary>
+<summary markdown="span">MongoDB</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>MongoDB-uploaded</td>
+        <td>MongoDB</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -685,13 +685,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Monitor-uploaded</summary>
+<summary markdown="span">Monitor</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Monitor-uploaded</td>
+        <td>Monitor</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -720,13 +720,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Operational Conditions-uploaded</summary>
+<summary markdown="span">Operational Conditions</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Operational Conditions-uploaded</td>
+        <td>Operational Conditions</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -747,13 +747,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Predict-uploaded</summary>
+<summary markdown="span">Predict</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Predict-uploaded</td>
+        <td>Predict</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -806,13 +806,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Studio-uploaded</summary>
+<summary markdown="span">Studio</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Studio-uploaded</td>
+        <td>Studio</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>
@@ -841,13 +841,13 @@ There are other connections that have no names and descriptions.
     
 
 <details markdown=1>
-<summary markdown="span">Visual Inspection-uploaded</summary>
+<summary markdown="span">Visual Inspection</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Visual Inspection-uploaded</td>
+        <td>Visual Inspection</td>
     </tr>
     <tr>
         <td> <strong>Description</strong> </td>

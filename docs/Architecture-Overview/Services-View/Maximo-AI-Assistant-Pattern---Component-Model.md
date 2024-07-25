@@ -68,13 +68,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Health-uploaded</summary>
+<summary markdown="span">Health</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Health-uploaded</td>
+        <td>Health</td>
     </tr> 
     <tr>
         <td> <strong>Description</strong> </td>
@@ -95,13 +95,13 @@ tags:
     
 
 <details markdown=1>
-<summary markdown="span">Manage-uploaded</summary>
+<summary markdown="span">Manage</summary>
 
 <table>
     <caption></caption>
     <tr>
         <td> <strong>Name</strong> </td>
-        <td>Manage-uploaded</td>
+        <td>Manage</td>
     </tr> 
     <tr>
         <td> <strong>Description</strong> </td>

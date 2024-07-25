@@ -32,7 +32,7 @@ High
 
 | Name | Description |
 | --- | --- |
- | Monitor-uploaded | Improve asset and operational availability with advanced AI-powered remote asset monitoring at scale. Collect data from your existing OT systems, an converge your IT systems and operational systems in a single data lake to detect anomalies. |
+ | Monitor | Improve asset and operational availability with advanced AI-powered remote asset monitoring at scale. Collect data from your existing OT systems, an converge your IT systems and operational systems in a single data lake to detect anomalies. |
     
 
 

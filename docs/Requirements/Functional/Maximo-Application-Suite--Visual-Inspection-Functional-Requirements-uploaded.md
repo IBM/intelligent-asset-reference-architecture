@@ -32,7 +32,7 @@ Low
 
 | Name | Description |
 | --- | --- |
- | Visual Inspection-uploaded | Perform a visual inspection of the line or asset using commercial, off-the-shelf iOS devices to get immediate, actionable notifications of any emerging issue. Scale easily to view multiple points 24/7 including global views of all plants and geographies. Integrate with maintenance and quality workflows for a fast and prescriptive response. |
+ | Visual Inspection | Perform a visual inspection of the line or asset using commercial, off-the-shelf iOS devices to get immediate, actionable notifications of any emerging issue. Scale easily to view multiple points 24/7 including global views of all plants and geographies. Integrate with maintenance and quality workflows for a fast and prescriptive response. |
     
 
 

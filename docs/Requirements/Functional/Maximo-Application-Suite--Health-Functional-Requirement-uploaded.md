@@ -32,7 +32,7 @@ High
 
 | Name | Description |
 | --- | --- |
- | Health-uploaded | Manage the health of your assets using IoT data from asset sensors, asset records and work history to increase asset availability and improve replacement planning. Get a true view of asset health via dashboard displays to provide evidence to base operational decisions. |
+ | Health | Manage the health of your assets using IoT data from asset sensors, asset records and work history to increase asset availability and improve replacement planning. Get a true view of asset health via dashboard displays to provide evidence to base operational decisions. |
     
 
 
